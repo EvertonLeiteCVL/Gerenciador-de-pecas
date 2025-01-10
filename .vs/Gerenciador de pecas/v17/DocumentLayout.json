@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\apresentacao\\formvendapecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|solutionrelative:apresentacao\\formvendapecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\apresentacao\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|solutionrelative:apresentacao\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\apresentacao\\formconsultapecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|solutionrelative:apresentacao\\formconsultapecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\apresentacao\\formcadastropecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|solutionrelative:apresentacao\\formcadastropecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|c:\\users\\evert\\source\\repos\\gerenciador de pecas\\negocios\\pecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|solutionrelative:negocios\\pecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\negocios\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|solutionrelative:negocios\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\negocios\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|solutionrelative:negocios\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\dados\\vendamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|solutionrelative:dados\\vendamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\dados\\pecamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|solutionrelative:dados\\pecamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\dados\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|solutionrelative:dados\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F929CD3-8AC2-41C8-B81E-EDDC7466351A}|Gerenciador de pecas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCadastroPecas.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Apresentacao\\FormCadastroPecas.cs",
+              "RelativeDocumentMoniker": "Apresentacao\\FormCadastroPecas.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Apresentacao\\FormCadastroPecas.cs",
+              "RelativeToolTip": "Apresentacao\\FormCadastroPecas.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwBcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:33:14.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormConsultaPecas.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Apresentacao\\FormConsultaPecas.cs",
+              "RelativeDocumentMoniker": "Apresentacao\\FormConsultaPecas.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Apresentacao\\FormConsultaPecas.cs",
+              "RelativeToolTip": "Apresentacao\\FormConsultaPecas.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:34:37.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Apresentacao\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Apresentacao\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Apresentacao\\FormPrincipal.cs",
+              "RelativeToolTip": "Apresentacao\\FormPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:35:59.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormVendaPecas.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Apresentacao\\FormVendaPecas.cs",
+              "RelativeDocumentMoniker": "Apresentacao\\FormVendaPecas.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Apresentacao\\FormVendaPecas.cs",
+              "RelativeToolTip": "Apresentacao\\FormVendaPecas.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:37:05.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PecaController.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Negocios\\PecaController.cs",
+              "RelativeDocumentMoniker": "Negocios\\PecaController.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Negocios\\PecaController.cs",
+              "RelativeToolTip": "Negocios\\PecaController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:44:54.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VendaController.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Negocios\\VendaController.cs",
+              "RelativeDocumentMoniker": "Negocios\\VendaController.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Negocios\\VendaController.cs",
+              "RelativeToolTip": "Negocios\\VendaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:46:14.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Peca.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Negocios\\Peca.cs",
+              "RelativeDocumentMoniker": "Negocios\\Peca.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Negocios\\Peca.cs",
+              "RelativeToolTip": "Negocios\\Peca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:43:52.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Dados\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "Dados\\NHibernateHelper.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Dados\\NHibernateHelper.cs",
+              "RelativeToolTip": "Dados\\NHibernateHelper.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:38:36.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VendaMap.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Dados\\VendaMap.cs",
+              "RelativeDocumentMoniker": "Dados\\VendaMap.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Dados\\VendaMap.cs",
+              "RelativeToolTip": "Dados\\VendaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:41:02.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PecaMap.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Dados\\PecaMap.cs",
+              "RelativeDocumentMoniker": "Dados\\PecaMap.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Dados\\PecaMap.cs",
+              "RelativeToolTip": "Dados\\PecaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:39:41.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:48:58.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:48:26.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Gerenciador de pecas\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:47:44.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

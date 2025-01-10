@@ -1,0 +1,5 @@
+C:\Users\evert\source\repos\Gerenciador de pecas\obj\Debug\Gerenciador de pecas.csproj.AssemblyReference.cache
+C:\Users\evert\source\repos\Gerenciador de pecas\obj\Debug\Gerenciador_de_pecas.Form1.resources
+C:\Users\evert\source\repos\Gerenciador de pecas\obj\Debug\Gerenciador_de_pecas.Properties.Resources.resources
+C:\Users\evert\source\repos\Gerenciador de pecas\obj\Debug\Gerenciador de pecas.csproj.GenerateResource.cache
+C:\Users\evert\source\repos\Gerenciador de pecas\obj\Debug\Gerenciador de pecas.csproj.CoreCompileInputs.cache
